@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="code" />
         <module name="note" />
+        <module name="ownnote" />
         <module name="demo" />
       </profile>
     </annotationProcessing>
